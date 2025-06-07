@@ -1,2 +1,2 @@
 # LiChuang-Simple-PID-Project
-PID learning project using MSPM0G3507
+The MSPM0G3507 board from Texas Instruments (TI) was used as the core board in the project. The motor was driven by the BDR6126 motor drive module on the drawn expansion board, and the UI interface and PID algorithm speed and position adjustment could be switched by using buttons. The results could be displayed on a 1.9-inch TFT screen, and the communication protocol was SPI protocol.
